@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RoomSample</string>
+    <string name="hint">This is sample hint text</string>
+
+</resources>
